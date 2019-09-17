@@ -264,6 +264,7 @@ public class VeiculoFrm extends javax.swing.JFrame {
                 this.txtCor.setText("");
                 this.txtAno.setText("");    
                 this.cmbStatus.setSelectedItem("");
+                btnBuscarActionPerformed(evt);
             }
     }//GEN-LAST:event_btnInserirActionPerformed
 
